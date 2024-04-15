@@ -1,0 +1,15 @@
+[
+    {
+      "input": "10 20",
+      "output": "You entered 10 and 20"
+    },
+    {
+      "input": "5 15",
+      "output": "You entered 5 and 15"
+    },
+    {
+      "input": "100 200",
+      "output": "You entered 100 and 200"
+    }
+  ]
+  
